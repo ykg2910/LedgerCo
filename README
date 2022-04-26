@@ -1,0 +1,8 @@
+build using :
+mvn clean install
+
+run using:
+java -jar target/LedgerCo-1.0-SNAPSHOT.jar input.txt
+
+inputs are being taken through:
+input.txt
